@@ -1,0 +1,14 @@
+{
+  "name": "baby-gender-option",
+  "version": "1.0.0",
+  "description": "Baby gender site for Hew",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "ceph",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
